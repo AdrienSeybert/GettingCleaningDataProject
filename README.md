@@ -29,6 +29,6 @@ a. I read them in as singular files so as not to clutter things up, especially m
 
 8. Kept variable names because they seemed descriptive enough. If I changed them arbitrarily without more knowledge, I would be compromising the data. 
 
-9. Performed a Melt To Find Means For Variables
+9. Performed a Melt To Find Averages For Variables By Subject ID, Activity ID
 
 10. Outputted Data File
